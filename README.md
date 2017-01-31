@@ -1,4 +1,4 @@
 # AgilePoker
 An iOS app for Agile Poker.
 
-by pmitakos & thanasisrig
+#### by [pmitakos](https://github.com/pmitakos) & [thanasisrig](https://github.com/thanasisrig)
